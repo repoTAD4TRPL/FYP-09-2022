@@ -92,7 +92,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## Langkah-langkah menjalankan aplikasi web atau mobile
 -	1. Lakukan clone project atau dapat menggunakan command
--         git clone https://github.com/RinaldyKarokaro/Personality.git
+-         git clone https://github.com/repoTAD4TRPL/FYP-09-2022.git
 -	2. Kemudian update composer atau dapat menggunakan command
 -         composer update
 -	3. Kemudian membuat file .env
