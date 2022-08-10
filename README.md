@@ -106,6 +106,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -	6. Kemudian buat database baru
 -	7. Lakukan konfigurasi pada file .env
 -         seperti mengganti nama database,username dan password di file .env
+![konfigurasi env](https://user-images.githubusercontent.com/65029328/183838859-34da2c20-af66-48e0-964b-695f4aa35ee0.png)
 -	8. Kemudian lakukan migrasi database atau dapat menggunakan command
 -         php artisan migrate
 -	9. Kemudian jalankan seeder atau dapat menggunakan command
