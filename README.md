@@ -94,18 +94,18 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -	1. Lakukan download projek atau clone project atau dapat menggunakan command
 -         git clone https://github.com/repoTAD4TRPL/FYP-09-2022.git  di cmd
 -   2. Kemudian buka folder project yang di clone menggunakan cmd atau terminal di visual studio code
--	2. Kemudian update composer atau dapat menggunakan command
+-	3. Kemudian update composer atau dapat menggunakan command
 -         composer update
--	3. Kemudian membuat file .env baru
+-	4. Kemudian membuat file .env baru
 -         dapat menggunakan command "php artisan key:generate"
 -         atau menggunakan file env.example kemudian command "php artisan key:generate"
--	4. Lakukan konfigurasi pada file .env
+-	5. Lakukan konfigurasi pada file .env
 -         seperti mengganti nama database,username dan password di file .env
--	5. Kemudian nyalakan apache dan mysql di xampp
--	6. Kemudian lakukan migrasi database atau dapat menggunakan command
+-	6. Kemudian nyalakan apache dan mysql di xampp
+-	7. Kemudian lakukan migrasi database atau dapat menggunakan command
 -         php artisan migrate
--	7. Kemudian jalankan seeder atau dapat menggunakan command
+-	8. Kemudian jalankan seeder atau dapat menggunakan command
 -         php artisan db:seed
--	8. Kemudian run project atau dapat menggunakan command
+-	9. Kemudian run project atau dapat menggunakan command
 -         php artisan serve
 		
