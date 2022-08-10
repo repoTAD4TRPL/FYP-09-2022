@@ -83,21 +83,22 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -     Melakukan penyesuaian versi komposer
 -     Melakukan penyesuaian versi laravel
 ## Daftar User Type
--    Admin di tabel user dengan value role 0
+-    Admin di tabel user dengan value role 0 yang berfungsi untuk melakukan otorisasi terkait semua fungsi yang ada di aplikasi,beserta mengelola seluruh fitur yang ada di aplikasi.Untuk dapat masuk kedalam aplikasi,akun admin sudah di buat terlebih dahulu secara default melalai sistem menggunakan seeder
 -         dengan email adalah "admin@gmail.com" dan password adalah "password"
--    Pengunjung atau user yang melakukan identifikasi di tabel user dengan value role 1
+-    Pengunjung atau user yang melakukan identifikasi di tabel user dengan value role 1 yang berfungsi untuk melakukan indentifikasi kepribadian dan dapat melihat history.untuk dapat melakukan identifikasi pengunjung diharuskan untuk register akun dan melakukan login ke aplikasi
 -         dimana akun dari pengunjung dapat dibuat dengan melakukan registrasi akun pada sistem 
 ## Link dari aplikasi dapat dilihat di
 -    https://personalitydisc.online/
 
 ## Langkah-langkah menjalankan aplikasi web atau mobile
--	1. Lakukan clone project atau dapat menggunakan command
--         git clone https://github.com/repoTAD4TRPL/FYP-09-2022.git
+-	1. Lakukan download projek atau clone project atau dapat menggunakan command
+-         git clone https://github.com/repoTAD4TRPL/FYP-09-2022.git  di cmd
+-   2. Kemudian buka folder project yang di clone menggunakan cmd atau terminal di visual studio code
 -	2. Kemudian update composer atau dapat menggunakan command
 -         composer update
--	3. Kemudian membuat file .env
+-	3. Kemudian membuat file .env baru
 -         dapat menggunakan command "php artisan key:generate"
--         atau menggunakan file env.example
+-         atau menggunakan file env.example kemudian command "php artisan key:generate"
 -	4. Lakukan konfigurasi pada file .env
 -         seperti mengganti nama database,username dan password di file .env
 -	5. Kemudian nyalakan apache dan mysql di xampp
