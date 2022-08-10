@@ -96,7 +96,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -   2. Kemudian buka folder project yang di clone menggunakan cmd atau terminal di visual studio code
 -	3. Kemudian update composer atau dapat menggunakan command
 -         composer update
--      ![composer update](https://user-images.githubusercontent.com/65029328/183836732-b88865e3-489e-4fe8-906d-45621139f14f.png)
+      ![composer update](https://user-images.githubusercontent.com/65029328/183836732-b88865e3-489e-4fe8-906d-45621139f14f.png)
 -	4. Kemudian membuat file .env baru
 -         dapat menggunakan command "php artisan key:generate"
 -         atau menggunakan file env.example kemudian command "php artisan key:generate"
