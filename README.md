@@ -103,14 +103,18 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 -         atau menggunakan file env.example kemudian command "php artisan key:generate"
 ![env](https://user-images.githubusercontent.com/65029328/183838299-4c1410a9-689d-4e3b-9682-ca2fe44ab179.png)
 -   5. Kemudian nyalakan apache dan mysql di xampp
+![seed](https://user-images.githubusercontent.com/65029328/183839408-ddd8cca1-a5ac-4208-823d-1b4deb6333cb.png)
 -	6. Kemudian buat database baru
 -	7. Lakukan konfigurasi pada file .env
 -         seperti mengganti nama database,username dan password di file .env
 ![konfigurasi env](https://user-images.githubusercontent.com/65029328/183838859-34da2c20-af66-48e0-964b-695f4aa35ee0.png)
 -	8. Kemudian lakukan migrasi database atau dapat menggunakan command
 -         php artisan migrate
+![migrate](https://user-images.githubusercontent.com/65029328/183839235-a042d897-8b44-4806-8c41-5ece4b2453ca.png)
 -	9. Kemudian jalankan seeder atau dapat menggunakan command
 -         php artisan db:seed
+![seed](https://user-images.githubusercontent.com/65029328/183839408-ddd8cca1-a5ac-4208-823d-1b4deb6333cb.png)
 -	10. Kemudian run project atau dapat menggunakan command
 -         php artisan serve
+![php artisan serve](https://user-images.githubusercontent.com/65029328/183839310-5d1a30f3-669b-45ed-82a9-1fbe397d0ebd.png)
 		
